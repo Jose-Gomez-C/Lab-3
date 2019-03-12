@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DeportistaAvanzado
+comment0.text=\n\ Write\ a\ description\ of\ class\ DeportistaAvanzado\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=salon\ nombre\ posicionx\ posiciony
+comment1.target=DeportistaAvanzado(Salon,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DeportistaAvanzado\n
+numComments=2
